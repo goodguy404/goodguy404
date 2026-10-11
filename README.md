@@ -35,14 +35,6 @@ I'm an undergraduate Computer Science student and independent software builder. 
 
 ---
 
-### 📬 Connect with Me
-
-- 🌐 **Website / Portfolio:** [mewaura.com](https://mewaura.com)
-- 🐦 **X (Twitter):** [@goodgoy404x](https://x.com/goodguy404x)
-- 📧 **Email:** [contact@mewaura.com](contact@mewaura.com)
-
----
-
 <p align="center">
   <i>"Building thoughtful software, one line at a time."</i>
 </p>
