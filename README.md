@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm GG404 👋
 
 💻 **Computer Science Student** | 🚀 **Founder** @ [Mewaura](https://github.com/mewaura) | 🛠️ **Software Builder**
 
